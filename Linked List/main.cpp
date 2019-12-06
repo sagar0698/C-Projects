@@ -22,4 +22,4 @@ int main() {
 	cout << "Integer at position entered is: " << mylist.getInteger(n) << endl;
 	cout << "The largest value in the list is: " << mylist.MaxList() << endl;  
 
-	system("pause"); // comment/uncomment if needed
+	system("pause"); 

@@ -20,6 +20,6 @@ int main() {
 	cout << "Enter position of integer to find : ";
 	cin >> n;
 	cout << "Integer at position entered is: " << mylist.getInteger(n) << endl;
-	cout << "The largest value in the list is: " << mylist.MaxList() << endl;  //part 3
+	cout << "The largest value in the list is: " << mylist.MaxList() << endl;  
 
 	system("pause"); // comment/uncomment if needed

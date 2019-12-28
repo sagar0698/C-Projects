@@ -8,6 +8,7 @@ These projects contains assignments from my Data Structures (CPSC 131) and Objec
 3. Array Searching
 4. Temperature
 5. Creating a SQL table
+6. Linked List
 
 
 **The personal projects/games are**

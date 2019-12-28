@@ -7,7 +7,7 @@ These projects contains assignments from my Data Structures (CPSC 131) and Objec
 2. Recursion
 3. Array Searching
 4. Temperature
-5. Creating a SQL table
+5. Creating a MySQL table
 6. Linked List
 
 

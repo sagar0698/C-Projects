@@ -15,4 +15,5 @@ These projects contains assignments from my Data Structures (CPSC 131) and Objec
 1. Hangman
 2. Tic-Tac-Toe
 3. Casino Number Guessing Game
+4. Snake
 

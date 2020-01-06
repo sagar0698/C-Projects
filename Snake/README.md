@@ -1,4 +1,4 @@
-** Snake Game **
+# Snake Game
 
 This is a old classic game called Snake. The objective for this game is to collect fruits or in this case, symbols, without hitting any of the barriers and/or having the snake eat its own tail. The game is operated using the arrow keys and I hope you enjoy playing this game.
 
